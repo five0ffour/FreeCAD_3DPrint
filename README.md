@@ -22,7 +22,7 @@ The practice graphics and book are copyright protected and only included for ref
 The FreeCAD projects are my solutions, they are available for review. I make no warranties to their correctness or efficiency, but welcome any observations or critiques.
 
 ## Example - a typical FreeCAD modeled solution   
-![schematic](ex02/Example 2 - result.png)
+![Sample](/ex02/Example 2 - result.png)
 
 ## Future Enhancements
 1. Complete the projects as I get to them
