@@ -2,7 +2,7 @@
 FreeCAD 3D Print models developed from Cardin360 3D Printing Book
   
 This repository captures my FreeCAD project solutions to the examples listed in the book "3D Printing Projects: 200 3D Practice Drawings For 3D Printing On Your 3D Printer" by Sachidanand Jha 
-Amazon Source: https://www.amazon.com/3D-PRINTING-PROJECTS-Practice-Drawings/dp/1072617633/
+Amazon Source: https://www.amazon.com/3D-PRINTING-PROJECTS-Practice-Drawings/dp/1072617633/  
 Cardin360 Source: https://cadin360.com/3d-printing-projects/
   
 ## What is FreeCAD?  
@@ -11,18 +11,18 @@ FreeCAD is an open source software tool for digitally designing and modeling 3 d
 Source: https://www.freecad.org/
   
 ## My Goal - 3D Printing
-Having grown up around mechanical engineers, manufacuring and old school drafters, I was always facinated with how they achieved their craft. 3D printing and the affordailty of at home printers for hobbyists took away the final hurdle. The software and hardware come together to allow me to join the maker community and concieve, design and create prototype objects at home. I am using the software, youTube and digital content to push myself to learn the basic skills. 
+Having grown up around mechanical engineers, manufacturing and old school drafters, I was always facinated with how they achieved their craft. 3D printing and the affordailty of at home printers for hobbyists took away the final hurdle. The software and hardware come together to allow me to join the maker community and concieve, design and create prototype objects at home. I am using the software, youTube and digital content to push myself to learn the basic skills. 
   
 ## This project
 That is where this project comes in. Having found the book "3D PRINTING PROJECTS: 200 3D Practice Drawings For 3D Printing On Your 3D Printer by Sachidanand Jha", I endeavor to use these exampels to practice and hone my craft... a long journey to be sure. I am not a professional CAD engineers, so I don't expect these projects to be the most efficient solution to these problems, but as I get better I will likely come back and adjust these to reflect my learning. If anyone can leverage any value out of my practice, then that is the beauty of git and the internet.
   
 ## Disclaimers 
-The practice graphics and book are copyright protected and only included for reference. These are only available for use if you have a licensed copy of the original book. I make no attributions other than what the author prescribes. FreeCAD is available for download at FreeCAD.org. 
+The practice graphics and book are copyright protected and only included for reference. These are only available for use if you have a licensed copy of the original book. I make no attributions other than what the author prescribes. FreeCAD is available for download at FreeCAD.org through its general public license. 
   
 The FreeCAD projects are my solutions, they are available for review. I make no warranties to their correctness or efficiency, but welcome any observations or critiques.
 
 ## Example - a typical FreeCAD modeled solution   
-![Sample](/ex02/Example 2 - result.png)
+![Sample](sample.png)
 
 ## Future Enhancements
 1. Complete the projects as I get to them
