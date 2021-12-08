@@ -1,6 +1,6 @@
-## 3D Printing Projects - Example 1
+# 3D Printing Projects - Example 1
   
-# Approach
+## Approach
 Sketched large circle on the XY plane   
 Sketched large circle in the center  
 Extended a line from the top and botomm apex to the outer ring  
@@ -9,11 +9,8 @@ Skteched three smaller circles on the same plane
 Padded out the closed object  
 Punched out the three small three holes  
 Created a mesh file for slicing  
-  
-# Alternate approaches
-Could use a pocket to punch out a sketched rectangle  
-  
-# First principles skills I picked up
+    
+## First principles skills I picked up
 project files  
 model view  
 task view  
@@ -30,10 +27,13 @@ holes
 coloring  
 meshing  
   
-# Overall impression
+## Overall impression
 Generally a single dimensional object with not complex shapes  
-
-# File References
+  
+## Alternate approaches
+Could use a pocket to punch out a sketched rectangle  
+  
+## File References
 This notes file: README-ex01.md  
 FreeCAD project file: Cardin360-ex01.FCStd  
 Requirements book view: Cardin360-ex01.png  
