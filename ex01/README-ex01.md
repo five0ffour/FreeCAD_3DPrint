@@ -36,15 +36,15 @@ Generally a single dimensional object with not complex shapes
 # File References
 This notes file: README-ex01.md  
 FreeCAD project file: Cardin360-ex01.FCStd  
-Requirements book view: Cardin360-ex01.png
-FreeCAD project rendered output: Result-ex01.png    
-
+Requirements book view: Cardin360-ex01.png  
+FreeCAD project rendered output: Result-ex01.png      
+  
 ## Built With
 FreeCAD 0.19 - FreeCAD (https://www.freecad.org/downloads.php)   
   
 ## Author
 Michael Galarneau - Five0ffour   
 Last update: December 8, 2021 
-
+  
 ## Output   
-![EX-01](Result-ex01.png)
+![EX-01](Result-ex01.png)  
