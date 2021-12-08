@@ -30,8 +30,8 @@ FreeCAD project rendered output: Result-ex02.png
 FreeCAD 0.19 - FreeCAD (https://www.freecad.org/downloads.php)   
   
 ## Author
-Michael Galarneau - Five0ffour 
-Last update: December 8, 2021 
+Michael Galarneau - Five0ffour  
+Last update: December 8, 2021  
   
 ## Output   
 ![EX-02](Result-ex02.png)  
