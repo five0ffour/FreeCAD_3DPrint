@@ -2,14 +2,14 @@
   
 ## Approach
 Created the three reference circles and aligned them accordingly  
-Outlined them all using straight lines and tangents
+Outlined them all using straight lines and tangents  
 Added the oval cut-out to the left  
-Padded to length
-Sketched an offset plane, the three smallest inner circles and punched them through
-Sketched an offset plane, out the three wider circles and only punched 1/2 way through 
+Padded to length  
+Sketched an offset plane, the three smallest inner circles and punched them through  
+Sketched an offset plane, out the three wider circles and only punched 1/2 way through  
 
 ## First principles skills I picked up  
-These are variations on the same themese  
+These are variations on the same themes    
 multiple layers, padding depths, offsets, reference cirlces, holes, tangents  
 
 ## Overall impression   
